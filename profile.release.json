@@ -1,8 +1,8 @@
 {
   "id": "release",
   "env": {
-    "FA_API_URL": "https://stregsystem.fklub.dk/api",
-    "FA_DEFAULT_ROOM": 10
+    "FA_API_URL": "https://stregsystem.walsted.dev/api",
+    "FA_DEFAULT_ROOM": 1
   },
   "build": {
     "build_songbook": false
